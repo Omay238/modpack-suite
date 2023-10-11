@@ -1,5 +1,5 @@
 # Mod Suite
-A group of 3 Minecraft modpacks for Vanilla
+A group of 4 Minecraft modpacks for Vanilla
 
 ## Modpack 1
 First modpack in the series, pure optimization, fastest and least featureful of the bunch
